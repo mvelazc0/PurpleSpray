@@ -1,6 +1,6 @@
 # PurpleSpray
 
-PurpleSpray is an adversary simulation tool that executes password spray behavior under different scenarios and conditions with the purpose of generating attack telemetry in properly monitored Windows enterprise environments. Blue teams can leverage PurpleSpray to identify gaps in visibility as well as test the resiliency, improve existing and build new detection analytics for password spraying attacks.
+PurpleSpray is an adversary simulation tool that executes password spray behavior under different scenarios and conditions with the purpose of generating attack telemetry in properly monitored Windows enterprise environments. Blue teams can leverage PurpleSpray to identify gaps in visibility as well as test the resilience, improve existing and build new detection analytics for password spraying attacks.
 
 PurpleSpray currently supports two [modules](https://github.com/mvelazc0/PurpleSpray/wiki/Modules) that leverage the SMB protocol for the spray scenarios. For more details and demos, visit the [Wiki](https://github.com/mvelazc0/PurpleSpray/wiki/Home).
 
