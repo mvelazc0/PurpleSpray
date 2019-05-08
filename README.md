@@ -18,20 +18,18 @@ pip install -r PurpleSpray/requirements.txt
  ### Docker Build
 
  ```
- $ docker build -t xshuden/purplespray .
+ $ docker build -t purplespray .
  ```
 
 ### Docker Usage
 
  ```
- $ docker run --rm -it xshuden/purplespray
+ $ docker run --rm -it purplespray
  ```
-
-
 
 ## Acknoledgments
 
-This project could not be possible without
+This project could not be possible without the following projects:
 
 * [Impacket](https://github.com/SecureAuthCorp/impacket)
 * [Powershell Empire](https://github.com/EmpireProject/Empire)
