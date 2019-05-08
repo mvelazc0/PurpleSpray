@@ -15,6 +15,20 @@ git clone https://github.com/mvelazc0/PurpleSpray.git
 pip install -r PurpleSpray/requirements.txt
 ```
 
+ ### Docker Build
+
+ ```
+ $ docker build -t xshuden/purplespray .
+ ```
+
+### Docker Usage
+
+ ```
+ $ docker run --rm -it xshuden/purplespray
+ ```
+
+
+
 ## Acknoledgments
 
 This project could not be possible without
