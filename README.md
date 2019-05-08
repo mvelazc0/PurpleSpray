@@ -11,9 +11,14 @@ PurpleSpray has been tested on Kali Linux 2018.4 and Windows 10 1830 under Pytho
 ### Installation
 
 ```
-git clone https://github.com/mvelazc0/PurpleSpray.git
-pip install -r PurpleSpray/requirements.txt
+$ git clone https://github.com/mvelazc0/PurpleSpray.git
+$ pip install -r PurpleSpray/requirements.txt
 ```
+ ### Usage
+ 
+ ```
+ $ python PurpleSpray.py
+ ```
 
  ### Docker Build
 
