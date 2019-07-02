@@ -4,6 +4,8 @@ PurpleSpray is an adversary simulation tool that executes password spray behavio
 
 PurpleSpray currently supports two [modules](https://github.com/mvelazc0/PurpleSpray/wiki/Modules) that leverage the SMB protocol for the spray scenarios. For more details and [demos](https://github.com/mvelazc0/PurpleSpray/wiki/Demos), visit the [Wiki](https://github.com/mvelazc0/PurpleSpray/wiki/Home).
 
+PurpleSpray was first presented at [BSides Baltimore 2019](https://www.youtube.com/watch?v=8JFP1wj37Vk). 
+
 ## Quick Start Guide
 
 PurpleSpray has been tested on Kali Linux 2018.4 and Windows 10 1830 under Python 3.6 and Python 2.7.
