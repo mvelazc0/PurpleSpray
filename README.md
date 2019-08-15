@@ -10,16 +10,18 @@ PurpleSpray was first presented at [BSides Baltimore 2019](https://www.youtube.c
 
 PurpleSpray has been tested on Kali Linux 2018.4 and Windows 10 1830 under Python 3.6 and Python 2.7.
 
+Note: Python 2 is no longer supported.
+
 ### Installation
 
 ```
 $ git clone https://github.com/mvelazc0/PurpleSpray.git
-$ pip install -r PurpleSpray/requirements.txt
+$ pip3 install -r PurpleSpray/requirements.txt
 ```
  ### Usage
  
  ```
- $ python PurpleSpray.py
+ $ python3 PurpleSpray.py
  ```
 
  ### Docker Build
